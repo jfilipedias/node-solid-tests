@@ -1,0 +1,11 @@
+{
+  "name": "node-solid-tests",
+  "version": "1.0.0",
+  "description": "A Node project with tests and following the SOLID principles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Dias",
+  "license": "MIT"
+}
