@@ -15,7 +15,7 @@ export class Appointment {
     return this.props.startsAt
   }
 
-  get endAt() {
+  get endsAt() {
     return this.props.endsAt
   }
 
